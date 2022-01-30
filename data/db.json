@@ -1,0 +1,31 @@
+{
+    "posts": [
+        {
+            "id": 1,
+            "title": "welcome to the new blog",
+            "body": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Corporis officiis deleniti voluptate harum beatae atque, ut at quisquam, quasi culpa eaque error, repudiandae aut. Earum quo veniam illo eaque possimus, quod officiis. Fuga, eveniet dolorum dolor quisquam porro saepe excepturi odit omnis adipisci deserunt, iste, sunt laboriosam eius soluta necessitatibus tempore libero. Aspernatur ea iusto sequi accusantium adipisci modi earum illum nam labore assumenda delectus magnam, error impedit atque minima vero accusamus dolorem neque sit necessitatibus, autem laudantium ipsam ipsum doloremque. Quis molestiae, a non nostrum totam perspiciatis quasi quisquam voluptates reiciendis pariatur fuga omnis eius reprehenderit. Laudantium asperiores fuga veritatis sit, consectetur accusantium dolorem, placeat cum a, quas quo obcaecati dolor optio? Voluptates temporibus repellat ut facere perferendis reprehenderit quos perspiciatis accusamus architecto odio sunt mollitia dicta dignissimos similique voluptas hic, debitis numquam totam quas velit rerum ab recusandae nulla est? Obcaecati velit minus nostrum itaque quia impedit, dolores maiores error nesciunt et praesentium libero aspernatur. A natus vel vero officiis quia eius, autem vitae, eaque tempora consectetur cupiditate porro labore earum. Numquam, distinctio, vero animi ab unde accusantium minima beatae eaque dignissimos a commodi sapiente aperiam tenetur iste saepe odio assumenda nemo totam fugit sint nostrum corporis rerum.",
+            "tags": [
+                "webdev",
+                "news"
+            ]
+        },
+        {
+            "id": 2,
+            "title": "top 5 css tips",
+            "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita repudiandae eveniet vitae quod corrupti voluptatibus sunt architecto. At repudiandae voluptatum consequuntur eligendi eos, ratione omnis non harum assumenda sint consequatur cupiditate libero rerum beatae. Sapiente eligendi autem eum sed facilis consectetur ad. Illum laborum ut natus dicta qui id laudantium ab. Laudantium ut perferendis corporis voluptate cupiditate repellendus excepturi numquam id, qui dolore iste, nihil eveniet dignissimos eius impedit culpa. Ipsam debitis iure unde velit hic quidem officiis eligendi neque voluptates eos dicta rerum repellendus quam vel cumque eum repellat exercitationem facere maiores, excepturi corrupti? Mollitia corrupti architecto dignissimos est hic rerum odit? Maxime aliquam iusto aspernatur quibusdam saepe quo similique, repellat porro ratione explicabo consectetur laborum qui veniam deserunt debitis at, sapiente culpa magnam, fugit dignissimos modi? Aspernatur ipsa non officia quibusdam eaque blanditiis earum sapiente doloremque quia, voluptates omnis perferendis, suscipit explicabo nulla minima? Maxime omnis soluta dolor recusandae rerum eligendi impedit neque quos velit perferendis quisquam nihil eos, fugiat minima accusantium in odio iusto consequuntur! Praesentium illo inventore ullam voluptatem vero ea ducimus omnis laborum accusamus saepe velit vitae eius mollitia, minima optio ut. Quidem assumenda unde et, quam asperiores nulla consequatur distinctio quaerat quasi neque amet!",
+            "tags": [
+                "webdev",
+                "css"
+            ]
+        },
+        {
+            "id": 3,
+            "title": "top 5 html tips",
+            "body": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Repellat corporis quia ratione minus in facilis sunt eveniet doloribus nostrum et possimus eaque velit, ex nihil mollitia omnis deleniti qui alias iure numquam, molestias, sint placeat. Itaque molestiae quaerat porro. Aperiam eaque iure quidem maiores error cumque. Eius ducimus inventore quod veritatis porro facere, blanditiis modi! Corporis fugiat nisi totam placeat in ratione minus quibusdam qui quis unde? Pariatur dolor recusandae minima asperiores libero tempore corporis tempora ipsa voluptate, quidem nemo ad nihil eaque laudantium incidunt dolorum sed! Beatae molestias labore possimus a repudiandae, consectetur voluptatem? Itaque magnam esse, officiis a natus fuga labore. Et deleniti est totam debitis ea atque magni harum officia. Quod harum ipsa, non recusandae, facere saepe consequatur, quas architecto nemo molestias qui suscipit. Omnis quisquam repellat nemo explicabo facilis illum. Recusandae perspiciatis earum id doloribus ipsum repudiandae quis quisquam ex tenetur consequatur magnam dolorem vel quod explicabo culpa esse, libero inventore? Esse labore ipsam minus assumenda minima odit corrupti suscipit, quo voluptatibus adipisci sit dolore rem explicabo facere doloribus iste atque, error ducimus sunt quidem at. Blanditiis, iste saepe itaque placeat vitae autem possimus voluptatibus beatae a quis quibusdam doloribus magnam similique temporibus quisquam ducimus velit?",
+            "tags": [
+                "webdev",
+                "html"
+            ]
+        }
+    ]
+}
